@@ -1,7 +1,5 @@
 # StockAnalysis
-Completed 11/6/23 <br>
-
-Personal project
+Personal project completed 11/6/23 <br>
 
 A script I wrote to analyze stock data. Skills improved from doing this project: Python data import, Jupyter interface/use, pandas use, and DateTime use
 
